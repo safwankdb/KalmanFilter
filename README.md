@@ -1,2 +1,2 @@
-# KalmanFIlter
-A naive implementation of Klaman FIlter for single variable in a python class
+# KalmanFilter
+A naive implementation of Klaman Filter for single variable in a python class
